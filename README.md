@@ -1,3 +1,23 @@
+
+
+🗓️{{date.DATA}}
+🤔{{wx_holidaytts_0.DATA}}
+🥰{{wx_holidaytts_1.DATA}}{{wx_holidaytts_2.DATA}}{{wx_holidaytts_3.DATA}}
+——————
+🌍今日{{city.DATA}}天气：{{weather.DATA}}
+🎀温度：{{min_temperature.DATA}}度~{{max_temperature.DATA}}度
+💧湿度：{{shidu.DATA}}
+🍀空气质量：{{aqi.DATA}}，PM2.5指数：{{pm25.DATA}}
+🌅日出：{{sunrise.DATA}}，日落：{{sunset.DATA}}
+💖宝贝，{{notice.DATA}}💖
+💬今日文案:{{wx_moment_copyrighting_0.DATA}}{{wx_moment_copyrighting_1.DATA}}
+😘今日英语:{{wx_note_en_0.DATA}}{{wx_note_en_1.DATA}}
+今天是我们正式在一起的第{{love_day.DATA}}天💕
+💌{{wx_earthy_love_words_0.DATA}}{{wx_earthy_love_words_1.DATA}}
+💙希望小翟天天开心💙
+❤️我永远爱你❤️
+
+
 <div align="center">
 
 
